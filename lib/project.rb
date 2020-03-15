@@ -10,4 +10,6 @@ class Project
     @name = name
     @backer = []
     @@all << self
+  end
+  
 end
